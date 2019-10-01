@@ -8,6 +8,6 @@
 6. echo "file 1" > f1
 7. git add *
 8. git commit -m "com1"
-9. git log --onelinet
+9. git log --oneline
 
 <https://resources.github.com/whitepapers/github-and-rstudio/>
